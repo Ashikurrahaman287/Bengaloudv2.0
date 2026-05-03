@@ -1,8 +1,8 @@
 {
- "framework": "vite",
+  "framework": "vite",
   "installCommand": "pnpm install --no-frozen-lockfile",
-  "buildCommand": "pnpm vite build",
-  "outputDirectory": "dist",
+  "buildCommand": "pnpm --filter @workspace/bengal-oud run build",
+  "outputDirectory": "artifacts/bengal-oud/dist/public",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ],
