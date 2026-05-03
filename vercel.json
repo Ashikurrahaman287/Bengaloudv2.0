@@ -3,7 +3,7 @@
 
   "installCommand": "pnpm install --no-frozen-lockfile",
 
-  "buildCommand": "pnpm --filter @workspace/bengal-oud run build",
+"buildCommand": "cd artifacts/bengal-oud && vite build",
 
   "outputDirectory": "artifacts/bengal-oud/dist",
 
