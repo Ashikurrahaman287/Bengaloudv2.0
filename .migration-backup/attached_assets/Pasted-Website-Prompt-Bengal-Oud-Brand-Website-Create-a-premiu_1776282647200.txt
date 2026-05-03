@@ -1,0 +1,271 @@
+Website Prompt: Bengal Oud Brand Website
+
+Create a premium, elegant, luxurious, and modern brand website for Bengal Oud, a popular perfume brand in Bangladesh.
+
+Brand Information
+Brand Name: Bengal Oud
+Established: 2018
+Founder: Maksudul Alam Sezan
+Industry: Oud, Perfume, Perfume Oil
+Location Focus: Bangladesh
+Business Type: Produces authentic oud from Bangladesh and supplies/distributes across the whole country
+Investment Milestone: Raised 10 Crore BDT from AGT Venture in 2020 for business expansion
+Achievement: Delivered more than 350,000+ authentic oud products
+Special Feature: Show a live animated counter for total delivered authentic oud, starting from 350,000+ and increasing continuously whenever users visit or refresh the site. It should feel dynamic and premium, but should be logically controlled with a maximum increase limit of 500 per day.
+Website Goal
+
+Build a luxury brand showcase website that presents:
+
+brand story
+founder story
+products
+achievements
+investment credibility
+nationwide distribution strength
+trust and authenticity
+contact and inquiry system
+
+The website must feel like a high-end perfume and oud brand, similar to luxury fragrance websites.
+
+Style & Design Direction
+Use a dark luxury theme
+Main colors: black, deep gold, bronze, ivory, warm beige
+Add subtle gradients and premium lighting effects
+Design should look rich, minimal, classy, and premium
+Use elegant typography for headings and modern readable typography for body text
+Add soft animations, smooth scrolling, hover effects, fade-in sections, and premium card layouts
+Website should be fully responsive for desktop, tablet, and mobile
+Use high-end brand visuals, perfume bottle mockups, oud wood textures, soft smoke effects, luxury packaging feel, and premium product presentation
+Website Structure
+1. Hero Section
+
+Create a stunning hero section with:
+
+Brand title: Bengal Oud
+Tagline:
+“Authentic Oud, Perfume & Perfume Oils Crafted for Bangladesh.”
+Subtitle explaining that Bengal Oud is one of Bangladesh’s most recognized oud and fragrance brands, delivering premium authentic scent experiences since 2018
+Two buttons:
+Explore Products
+Our Story
+Background should feel luxurious, using oud wood, perfume bottle, golden smoke, or Arabian-inspired premium fragrance aesthetics
+2. Brand Story Section
+
+Add an “About Bengal Oud” section explaining:
+
+Bengal Oud was established in 2018
+It became a trusted perfume brand in Bangladesh
+It produces and distributes authentic oud, perfumes, and perfume oils
+It serves fragrance lovers across the country
+It is committed to authenticity, premium quality, elegance, and trust
+
+Tone should sound professional, premium, and credible.
+
+3. Founder Section
+
+Create a premium founder highlight section:
+
+Founder name: Maksudul Alam Sezan
+Add a short inspiring founder story
+Mention his vision to make Bengal Oud a trusted and premium fragrance house in Bangladesh
+Add founder image placeholder
+Use elegant card layout or split-section design
+4. Investment & Growth Section
+
+Add a strong business credibility section:
+
+Mention Bengal Oud raised 10 Crore BDT from AGT Venture in 2020
+Explain this funding helped expand production, branding, operations, and nationwide distribution
+Show it in a premium milestone/timeline/statistics layout
+Add animated numbers and elegant icons
+5. Live Delivery Counter Section
+
+Create a powerful “Trust in Numbers” section:
+
+Show:
+350,000+ Authentic Oud Delivered
+Build an animated live counter that keeps increasing on refresh/visit
+Make it visually premium with glowing number animation
+Important logic:
+counter should feel alive and growing infinitely
+but the actual increase should be capped at 500 maximum per day
+store the daily count logic properly using local storage or backend-ready logic
+Also show supporting stats like:
+Since 2018
+Nationwide Delivery
+Premium Authentic Collection
+Trusted by Fragrance Lovers Across Bangladesh
+6. Products Section
+
+Create a product showcase section with categories:
+
+Authentic Oud
+Luxury Perfume
+Perfume Oil
+Signature Collections
+Gift Boxes / Premium Packaging
+
+Each product card should include:
+
+product image
+product name
+short luxury description
+fragrance notes
+size or bottle type
+price placeholder
+“View Details” or “Order Now” button
+
+Design should look like premium ecommerce showcase cards, even if the website is mainly branding-focused.
+
+7. Featured Collections Section
+
+Add a premium section for highlighted collections:
+
+Royal Oud Collection
+Signature Perfume Oils
+Exclusive Limited Editions
+Best Sellers
+
+Use large cards or carousel design.
+
+8. Why Choose Bengal Oud
+
+Create a trust-building section with icons and cards:
+
+Authentic Oud Products
+Premium Ingredients
+Elegant Perfume Craftsmanship
+Trusted Since 2018
+Nationwide Supply & Distribution
+Luxury Packaging
+Investor-Backed Growth
+Customer Satisfaction
+9. Projects / Brand Expansion Showcase
+
+Create a section to showcase business expansion and brand achievements:
+
+product development journey
+retail and supply growth
+fragrance innovation
+nationwide delivery network
+investor-backed scaling
+premium collection launches
+
+Present it as a modern showcase/timeline/grid.
+
+10. Testimonials Section
+
+Add customer testimonials with premium styling:
+
+reviews from fragrance lovers
+mention authenticity, long-lasting scent, and premium packaging
+use elegant quote cards or carousel slider
+11. Gallery / Brand Experience Section
+
+Add an image gallery for:
+
+oud products
+perfume bottles
+packaging
+brand lifestyle visuals
+store/distribution visuals
+premium close-up luxury shots
+
+Make it modern and immersive.
+
+12. Contact / Inquiry Section
+
+Add a full contact section with:
+
+business inquiry form
+wholesale/distribution inquiry
+customer support inquiry
+social media links
+phone number placeholder
+email placeholder
+address placeholder
+Google map placeholder
+13. Footer
+
+Footer should include:
+
+Bengal Oud logo
+short premium brand description
+quick links
+products links
+contact info
+social media icons
+copyright
+“Established 2018”
+Functional Requirements
+Fully responsive
+Smooth animations
+Elegant hover effects
+Animated counters
+Premium loading effects
+Product filtering by category
+Inquiry/contact form
+SEO-friendly structure
+Fast loading
+Clean code and scalable structure
+Technical Requirements
+
+Build using:
+
+React + Next.js or HTML/CSS/JS
+Tailwind CSS for styling
+Framer Motion for animations
+Responsive layout
+Clean component structure
+Reusable product cards and section components
+
+If using React/Next.js:
+
+create reusable sections
+maintain premium UI consistency
+use mock data for products
+include a live delivery counter with daily cap logic
+Copywriting Style
+
+The writing should be:
+
+luxurious
+elegant
+premium
+trustworthy
+business-credible
+emotionally rich but professional
+
+Avoid cheap ecommerce language. Make it feel like a premium fragrance house.
+
+Extra Premium Features to Add
+premium intro loader with logo reveal
+fragrance note hover interactions
+luxury animated stats
+subtle background particles/smoke
+dark mode aesthetic by default
+“Our Legacy Since 2018” timeline
+investor-backed credibility badge
+premium call-to-action banners
+WhatsApp order/inquiry button
+newsletter signup for fragrance lovers
+Output Request
+
+Generate:
+
+full homepage layout
+premium content copy
+modern UI structure
+sample product showcase
+live counter logic
+responsive sections
+brand-consistent design system
+
+
+Facebook : https://www.facebook.com/profile.php?id=61558718344683
+
+Phone Number L: 
+01568-983888
+
+Whatsapp : 
+01568-983888

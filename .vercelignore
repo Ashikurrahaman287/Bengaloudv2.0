@@ -1,0 +1,11 @@
+.git
+.local
+node_modules
+artifacts/api-server
+artifacts/mockup-sandbox
+.migration-backup
+attached_assets/*.txt
+attached_assets/*.png
+attached_assets/images
+scripts
+lib

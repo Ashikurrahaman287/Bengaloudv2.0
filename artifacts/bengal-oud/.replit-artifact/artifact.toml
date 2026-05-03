@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Bengal Oud"
+version = "1.0.0"
+id = "artifacts/bengal-oud"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24135
+
+[services.development]
+run = "pnpm --filter @workspace/bengal-oud run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/bengal-oud", "run", "build" ]
+publicDir = "artifacts/bengal-oud/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24135"
+BASE_PATH = "/"
